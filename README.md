@@ -1,8 +1,24 @@
-### Welcome, My name is Moura and I currently work as a DevOps Analyst 👋
+### 👋 Welcome! I'm Moura
+DevOps Analyst | Cloud | Automation | CI/CD
 
-![Mouradev GitHub stats](https://github-readme-stats.vercel.app/api?username=mouradev1&show_icons=true&count_private=true&theme=aura)
+---
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mouradev1&layout=compact&langs_count=8&theme=aura)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouradev1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-<h4 align="center">Visitantes :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{mouradev1}/count.svg" alt="mouradev1 :: Visitor's Count" /></p>
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouradev1&layout=compact&theme=tokyonight)
+
+---
+
+### 🚀 Technologies & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+### 👀 Visitors
+![Visitors](https://komarev.com/ghpvc/?username=mouradev1&color=blue)
