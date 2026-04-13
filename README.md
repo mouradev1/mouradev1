@@ -4,10 +4,10 @@ DevOps Analyst | Cloud | Automation | CI/CD
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouradev1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouradev1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400)
 
 ### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouradev1&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouradev1&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
